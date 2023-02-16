@@ -42,7 +42,7 @@ module.exports = {
             }
         },
         // Identification:
-        token: "OTM3NzgzMTQ1MTYyNDk4MTE4.G5w1fQ.v2jsnDN_ZhMUX2_MTAfhC7mYu6LCaIeUYR4Anc",
+        token: "",
         id: "937783145162498118",
         OWNER: ["774354935906959380"],
         PREFIX: ">",
