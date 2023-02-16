@@ -1,0 +1,16 @@
+{
+    "embeds": [
+        {
+            "title": "LeagueOS Bot Uptime Alert",
+            "footer": {
+                "text": "~via uptime"
+            },
+            "fields": [
+                {
+                    "name": "*LeagueOS*'s Status Just Got Updated!",
+                    "value": "**Status:** *alertTypeFriendlyName*"
+                }
+            ]
+        }
+    ]
+}
